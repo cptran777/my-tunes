@@ -7,7 +7,7 @@ import React from 'react';
 
 class Footer extends React.Component {
 
-  constructur(props) {
+  constructor(props) {
     super(props);
 
     this.state = {};

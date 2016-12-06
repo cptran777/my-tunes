@@ -10,7 +10,7 @@ import React from 'react';
 
 class LoginBody extends React.Component {
 
-  constructur(props) {
+  constructor(props) {
     super(props);
 
     this.state = {};

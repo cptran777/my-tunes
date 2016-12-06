@@ -14,7 +14,7 @@ import SongList from '../components/SongList';
 
 class AppBody extends React.Component {
 
-  constructur(props) {
+  constructor(props) {
     super(props);
 
     this.state = {};

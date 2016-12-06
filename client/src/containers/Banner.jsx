@@ -9,7 +9,7 @@ import React from 'react';
 
 class Banner extends React.Component {
 
-  constructur(props) {
+  constructor(props) {
     super(props);
 
     this.state = {};
